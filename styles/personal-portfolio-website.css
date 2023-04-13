@@ -1,0 +1,108 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.personal-portfolio-website-jdz {
+  box-sizing: border-box;
+  padding-top: 9.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7f8f1;
+}
+.personal-portfolio-website-jdz .auto-group-teqe-4pg {
+  margin: 0rem 30.7rem 4.3rem 12.65rem;
+  width: calc(100% - 43.35rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.personal-portfolio-website-jdz .auto-group-teqe-4pg .home-gDn {
+  margin: 0.1rem 15.95rem 0rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.personal-portfolio-website-jdz .auto-group-teqe-4pg .services-vP2 {
+  margin: 0.6rem 10.05rem 0rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.personal-portfolio-website-jdz .auto-group-teqe-4pg .works-SMN {
+  margin-right: 14rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.personal-portfolio-website-jdz .auto-group-teqe-4pg .notes-xac {
+  margin: 0.5rem 10.55rem 0rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.personal-portfolio-website-jdz .auto-group-teqe-4pg .experience-4tY {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.personal-portfolio-website-jdz .auto-group-eeor-bda {
+  box-sizing: border-box;
+  padding: 20.2rem 63.55rem 38.4rem 52.25rem;
+  width: 144.7rem;
+  height: 85.1rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg.png');
+  flex-shrink: 0;
+}
+.personal-portfolio-website-jdz .auto-group-eeor-bda .hey-there-im-asma-u8U {
+  max-width: 28.9rem;
+  text-align: center;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.38;
+  color: #000000;
+  font-family: Hurricane, 'Source Sans Pro';
+}
